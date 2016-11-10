@@ -10,5 +10,5 @@ package desarrollo001;
  * @author ALEX DAN
  */
 public class clase2 {
-    
+    sout    
 }
